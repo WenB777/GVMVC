@@ -1,0 +1,7 @@
+nohup: ignoring input
+Running iteration 1
+Test on: Scene-15
+Test 1
+Test......
+Testing Results:  ACC:0.5226  NMI:0.4671  ARI:0.3287  PUR:0.5563
+Average ACC 0.5226 Average NMI 0.4671 Average ARI 0.3287 Average PUR 0.5563

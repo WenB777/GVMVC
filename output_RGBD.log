@@ -1,0 +1,7 @@
+nohup: ignoring input
+Running iteration 1
+Test on: RGBD
+Test 1
+Test......
+Testing Results:  ACC:0.4479  NMI:0.3749  ARI:0.2674  PUR:0.5652
+Average ACC 0.4479 Average NMI 0.3749 Average ARI 0.2674 Average PUR 0.5652
